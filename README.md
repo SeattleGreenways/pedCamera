@@ -8,5 +8,5 @@ Created during the Code For Seattle 2014 Hackathon as part of Bob Edmiston's wid
 
 Original authors:
 -Russell Alleen-Willems
--Theirry Moreau
--Michael 
+-Thierry Moreau
+-Michael Wolf
